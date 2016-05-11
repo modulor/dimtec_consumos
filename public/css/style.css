@@ -1,0 +1,12 @@
+/* login */
+.login-logo{
+  font-weight: bold;
+}
+.login-logo > small{
+  font-size: 16px !important;
+  font-weight: normal;
+  display: block;
+}
+/* */
+
+
